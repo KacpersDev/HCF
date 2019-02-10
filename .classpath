@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Desktop/HCRoyals/kitmap/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Desktop/HCRoyals/kitmap/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Desktop/HCRoyals/kitmap/plugins/WorldEdit-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Desktop/HCRoyals/Core3/Dependencies/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Downloads/Other/Zonix.us/priv/Core/libs/exospigot-1.7.10-1.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/.m2/repository/net/milkbowl/vault/VaultAPI/1.4/VaultAPI-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Big Blue/Desktop/HCRoyals/Kits/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
