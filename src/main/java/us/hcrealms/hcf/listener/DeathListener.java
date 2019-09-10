@@ -111,6 +111,8 @@ public class DeathListener implements Listener {
 		if (Bukkit.spigot().getTPS()[0] > 15.0D) {
 			PlayerInventoryContents.put(player.getUniqueId(), player.getInventory().getContents());
 			PlayerArmorContents.put(player.getUniqueId(), player.getInventory().getArmorContents());
+			player.getInventory().clear();
+			player.getInventory().setArmorContents(null);
 			Location location = player.getLocation();
 			((CraftWorld) location.getWorld()).getHandle();
 			for (Player target : Bukkit.getOnlinePlayers()) {
